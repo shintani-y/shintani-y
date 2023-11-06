@@ -5,6 +5,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shintani-y&theme=vue)
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   22 mins         ██████████████████░░░░░░░   72.17 %
+YAML       8 mins          ███████░░░░░░░░░░░░░░░░░░   27.83 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
