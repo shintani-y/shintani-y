@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuta Shintani</h1>
+<h1 align="center">👋I'm Yuta Shintani👋</h1>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shintani-y&theme=vue)
 
