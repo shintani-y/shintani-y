@@ -7,12 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2023 - To: 06 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-Total Time: 31 mins
+Total Time: 4 hrs 6 mins
 
-Markdown   22 mins         ██████████████████░░░░░░░   72.17 %
-YAML       8 mins          ███████░░░░░░░░░░░░░░░░░░   27.83 %
+Python     2 hrs 28 mins   ███████████████░░░░░░░░░░   60.10 %
+Markdown   36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Text       28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+YAML       24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+XML        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
