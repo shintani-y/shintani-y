@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 07 December 2023
+From: 01 December 2023 - To: 08 December 2023
 
-Total Time: 9 hrs 51 mins
+Total Time: 7 hrs 39 mins
 
-Vue.js         2 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
-TeX            2 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-Python         1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-TypeScript     49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Markdown       39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+TeX            2 hrs 29 mins   ████████░░░░░░░░░░░░░░░░░   32.59 %
+Python         1 hr 32 mins    █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+TypeScript     1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+Markdown       37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+JSON           33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
 ```
 
 <!--END_SECTION:waka-->
