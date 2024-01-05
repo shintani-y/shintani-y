@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 28 December 2023 - To: 04 January 2024
 
-Total Time: 19 hrs 11 mins
+Total Time: 11 hrs 42 mins
 
-TeX          11 hrs 44 mins  ███████████████▒░░░░░░░░░   61.20 %
-TypeScript   3 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-JavaScript   2 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
-JSON         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+TeX          11 hrs 7 mins   ███████████████████████▓░   95.03 %
+JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+XML          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+BibTeX       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
