@@ -7,15 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2024 - To: 25 January 2024
+From: 19 January 2024 - To: 26 January 2024
 
-Total Time: 13 hrs 7 mins
+Total Time: 18 hrs 6 mins
 
-TypeScript   6 hrs 23 mins   ████████████░░░░░░░░░░░░░   48.65 %
-TeX          5 hrs 1 min     █████████▓░░░░░░░░░░░░░░░   38.30 %
-Makefile     43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-HTML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Go           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+TypeScript   11 hrs 5 mins   ███████████████▒░░░░░░░░░   61.23 %
+TeX          5 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   27.75 %
+Makefile     43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Go           31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+HTML         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
