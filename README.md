@@ -7,15 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2024 - To: 19 February 2024
+From: 13 February 2024 - To: 20 February 2024
 
-Total Time: 1 hr 45 mins
+Total Time: 0 secs
 
-JSON         1 hr 27 mins    ████████████████████▓░░░░   83.06 %
-Other        16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
