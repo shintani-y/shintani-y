@@ -7,11 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 February 2024 - To: 07 March 2024
+From: 01 March 2024 - To: 08 March 2024
 
 Total Time: 3 mins
 
-TeX   3 mins          █████████████████████████   100.00 %
+TeX      3 mins          ████████████████████████▒   97.94 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
