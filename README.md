@@ -7,12 +7,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2024 - To: 10 March 2024
+From: 04 March 2024 - To: 11 March 2024
 
-Total Time: 0 secs
+Total Time: 11 mins
 
-Python   0 secs          ██████████████████▓░░░░░░   74.90 %
-XML      0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+Python     8 mins          ██████████████████░░░░░░░   72.56 %
+Makefile   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
+Other      1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
+TeX        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
